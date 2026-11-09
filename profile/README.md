@@ -1,6 +1,6 @@
 # CortexZip
 
-We make small, private apps that do one job well. No ads, no ad SDKs, and no accounts unless an app truly needs one.
+We make apps that do one job well. No ads, no ad SDKs, and no accounts unless an app truly needs one.
 
 ## Apps
 
